@@ -19,13 +19,6 @@ export const AppBar = () => {
                                         FOODIE <br />
 
                                     </Typography>
-
-                                    <Typography style={{ fontSize: '18px', fontWeight: 'bold', color: 'white' }} >
-                                        Menu <br />
-
-                                    </Typography>
-
-
                                 </div>
                             </Grid>
                         </Grid>

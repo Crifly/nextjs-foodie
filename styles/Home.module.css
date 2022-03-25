@@ -1,0 +1,104 @@
+.container{
+  padding: 0;
+  margin: 0;
+  
+}
+.firstSectionContainerDiv{
+  height: 57rem;
+  /* background: url('https://images.wallpaperscraft.com/image/single/pepper_chile_fire_127981_1280x720.jpg'); */
+  background: url('https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+
+  position: relative;
+  
+}
+
+
+
+.cardsIconHoverStyle{
+  background-color: #FAF8F3;
+  color:#9C9A96 ;
+}
+
+.cardsIconHoverStyle:hover{
+  background-color: #03A850;
+  color:white ;
+}
+
+.firstSectionContainerDivContent{
+  height: 48rem;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+
+}
+.thirdsectioncontainer{
+  background: url('https://images.unsplash.com/photo-1486833042870-6cd58f09a035?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 50rem;
+  position: relative;
+  
+}
+
+.menuesbtnstyle{
+  font-size: 10px;
+  padding: 8px 9px;
+  color: #78787B;
+  background-color: white;
+  font-weight: 600;
+}
+
+.sectionBelowMenuContentDiv{
+  background-color: rgba(255, 255, 255, 0.25);
+  padding: 30px 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+
+}
+
+.carouselItem{
+  background-color: rgba(255, 255, 255, 0.25) ;
+  border-radius: 5px;
+}
+
+.footerDivStyle{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.footerDivStyle2{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+
+.TabsHoverStyle{
+  background-color: white;
+  color: black  ;
+  padding: 0px 18px !important ;
+  border-radius: 6px;
+  margin: 5px;
+  font-size: 11px;
+  
+
+}
+
+.TabsHoverStyle:hover{
+  background-color: #FF8E28;
+  color: white  !important ;
+  
+}
